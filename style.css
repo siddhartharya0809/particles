@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+}
+
+.editor {
+  width: 500px;
+  height: 160px;
+  border: 1px solid black;
+}
